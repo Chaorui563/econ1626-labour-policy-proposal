@@ -49,7 +49,7 @@ Options are judged on **efficiency** (does it fix the credit and training failur
 **Option B: train-before-redundancy payment** (modelled on Germany's *Qualifizierungsgeld*; Bundesagentur für Arbeit 2024)
 - *Mechanism:* the Commonwealth reimburses 60% of the net wages lost during up to 320 hours of accredited training. The employer pays course fees, agrees an AI transition plan with staff and retains the worker for 12 months.
 - *Target:* employees whose roles AI is redesigning.
-- *Scale and cost:* about $1,100 net a week × 8 weeks × 60% ≈ $5,300 per worker. For 10,000 workers a year, **$230m over four years**, plus about $160m in course fees paid by employers.
+- *Scale and cost:* about $1,060 net a week (after tax on the $1,300 median) × 8 weeks × 60% ≈ $5,100 per worker. For 10,000 workers a year, **$230m over four years**, plus about $160m in course fees paid by employers.
 
 **Option C: clerical transition guarantee**
 - *Mechanism:* career guidance, reviving the Skills Checkpoint program that ended in June 2024 (DEWR 2024), plus a $5,000 training voucher. JobSeeker continues to provide income support.
