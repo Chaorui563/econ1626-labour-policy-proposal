@@ -1,107 +1,99 @@
 # Paying to Retrain Before AI Makes Clerical Workers Redundant
 
-> This brief advises the Deputy Secretary, Employment and Workforce Group, Department of Employment and Workplace Relations (DEWR), on the worker-adjustment measures that should accompany the *Australian Standards for AI*, which the Office of AI in PM&C is preparing for legislation in early 2027.
+> This brief advises the Deputy Secretary, Employment and Workforce Group, DEWR, on the worker-adjustment measures that should accompany the *Australian Standards for AI*, which the Office of AI (PM&C) will take to Parliament in early 2027.
 
 ## Executive summary
 
-<!-- 120–150 words -->
+Generative AI now performs routine cognitive tasks at the core of clerical work, Australia's most automation-exposed occupation group (1.83 million workers, 72% women). The first effect is on hiring: clerical employment has stalled and clerical vacancies are falling faster than the average. AI's gains are economy-wide, but its adjustment costs fall on workers who often cannot finance retraining.
+
+This brief recommends a **$450m, four-year package** in the 2027 legislation:
+
+1. a **train-before-redundancy payment** that replaces 60% of lost wages while employees retrain inside firms that are adopting AI
+2. a **transition guarantee** of career guidance plus a $5,000 training voucher for workers already displaced.
+
+Jobs and Skills Australia (JSA) would evaluate both against a comparison group, with explicit rules to scale up or stop.
 
 ## 1. Problem definition and context
 
-On 15 July 2026 the Government announced Australian Standards for AI and a new Office of AI, with legislation expected in early 2027 (Prime Minister of Australia 2026). The announcement promises "shared benefits for our workers", but the proposed standards cover data centres and copyright, not labour-market adjustment. The Productivity Commission expects AI to add about $116 billion to GDP over a decade. It also says that if AI displaces many workers, government "may need to consider specific supports for retraining" (PC 2025, pp. 12, 15). This brief designs those supports.
+The July 2026 announcement promises "shared benefits for our workers", but the proposed standards cover data centres and copyright, not worker adjustment (Prime Minister of Australia 2026). The Productivity Commission (PC) expects AI to add about $116 billion to GDP over a decade, and says government "may need to consider specific supports for retraining" if AI displaces many workers (PC 2025, pp. 12, 15).
 
-The task framework identifies three channels (Acemoglu & Restrepo 2019):
+In the task framework, AI affects work through **displacement** (AI takes over tasks), **productivity** (cheaper output raises labour demand elsewhere) and **reinstatement** (new tasks for people) (Acemoglu & Restrepo 2019). Computerisation mostly replaced routine work (Autor, Levy & Murnane 2003). Generative AI also reaches routine *cognitive* tasks that earlier waves left untouched, such as drafting, data entry and reconciliation (JSA 2025, p. 20).
 
-- **Displacement:** AI takes over tasks that people used to do.
-- **Productivity:** cheaper output raises demand for labour elsewhere.
-- **Reinstatement:** new tasks are created in which people have the advantage.
-
-Computerisation mostly replaced routine work (Autor, Levy & Murnane 2003). Generative AI also reaches routine *cognitive* tasks that earlier waves left untouched, such as drafting, data entry, scheduling and reconciliation (JSA 2025, p. 20).
-
-Job loss alone does not justify intervention. The case rests on two market failures and one distributional concern:
-
-- Displaced workers often lack the savings or credit to pay for retraining.
-- Employers underinvest in general skills that rival firms can poach (Becker 1964).
-- The losses fall on a narrow group while the gains are widely shared.
+Job loss alone does not justify intervention. The case rests on two market failures and a distributional concern: displaced workers often cannot borrow to retrain; employers underinvest in general skills that rivals can poach (Becker 1964); and losses are concentrated while gains are shared.
 
 ## 2. Analysis of impacts
 
-### 2.1 Employment and tasks
-
-Only 4% of workers are in occupations with high automation exposure, while 79% have low exposure. For most jobs, augmentation outweighs automation (JSA 2025, pp. 18–19). Exposure is highest in clerical work. JSA's modelling projects that general clerks, receptionists, and accounting clerks and bookkeepers will be among the five occupations losing the most employment by 2050 relative to baseline (JSA 2025, p. 27).
+**Employment and tasks.** Only 4% of workers are in occupations with high automation exposure, while 79% have low exposure. For most jobs, augmentation outweighs automation (JSA 2025, pp. 18–19). Exposure is highest in clerical work: JSA's modelling puts general clerks, receptionists and bookkeepers among the five occupations losing the most employment by 2050 (JSA 2025, p. 27).
 
 The early signal is weaker hiring, not layoffs:
 
-- Clerical employment was 1.83 million in February 2026, unchanged on a year earlier, while total employment grew 1.8% (ABS 2026).
-- In June 2026, vacancies for personal assistants and bookkeepers were about 22% lower than a year earlier. Vacancies across all occupations fell by only about 1.7% (JSA Internet Vacancy Index, reported in Risse & Stephenson 2026).
-- In US payroll data, employment of 22–25-year-olds in AI-exposed occupations is 19% below that of less-exposed peers. The fall is concentrated where AI automates work rather than augments it (Brynjolfsson, Chandar & Chen 2026).
+- Clerical employment was flat in the year to February 2026, while total employment rose 1.8% (ABS 2026).
+- In June 2026, vacancies for personal assistants and bookkeepers were 22% below a year earlier. All vacancies fell by only 1.7% (JSA Internet Vacancy Index, reported in Risse & Stephenson 2026).
+- In US payroll data, employment of 22–25-year-olds in AI-exposed occupations is 19% below that of less-exposed peers (Brynjolfsson, Chandar & Chen 2026).
 
-Exposure is not a forecast of job losses. These figures are, however, early evidence that the displacement channel is operating.
+**Wages.** So far, firms adjust headcount rather than pay (Brynjolfsson, Chandar & Chen 2026). Awards set a floor under clerical pay (median $1,300 a week, against $1,425 for all employees; ABS 2025), so pressure appears as fewer hires and hours, not lower rates. Within firms, AI narrows skill gaps: one AI assistant raised novice agents' productivity by 34% (Brynjolfsson, Li & Raymond 2025). Whether workers share that gain depends on bargaining power.
 
-### 2.2 Wages
+**Industry structure.** JSA projects the largest employment losses in retail, public administration, finance and professional services, and gains in care, construction and hospitality (JSA 2025, p. 27). Many clerical workers must change industry as well as tasks, where retraining costs are highest.
 
-So far, firms are adjusting through the number of people they employ rather than through pay (Brynjolfsson, Chandar & Chen 2026). In Australia, awards set a floor under clerical pay, which has a median of $1,300 a week against $1,425 for all employees (ABS 2025). The pressure therefore appears in fewer hires and fewer hours, not lower hourly rates.
-
-Within firms, AI can narrow skill gaps. One AI assistant raised the productivity of novice customer-support agents by 34% (Brynjolfsson, Li & Raymond 2025). Whether workers share in that gain depends on their bargaining power. AI is owned capital, so its returns flow as profit unless institutions redirect them.
-
-### 2.3 Industry structure
-
-Relative to baseline, JSA projects the largest employment losses in retail, public administration, finance and professional services. The largest gains are in care, construction and hospitality (JSA 2025, p. 27). Many clerical workers will therefore have to change industry as well as tasks, which is the kind of move where retraining costs are highest.
-
-### 2.4 Who bears the cost
-
-- **Women:** clerical work is 72% female and provides 18.5% of all jobs held by women (ABS 2026). JSA finds that women are more likely than men to move into highly automatable roles. It also identifies older workers, First Nations Australians and people with disability as groups at risk (JSA 2025, p. 68).
-- **Early-career workers:** they lose the entry-level jobs in which skills are usually built.
-
-The productivity gains are spread across the economy, but the losses fall on an identifiable, mostly female, middle-wage group.
+**Distribution.** Clerical work provides 18.5% of all jobs held by women (ABS 2026). JSA finds women are more likely to move *into* highly automatable roles, and flags older workers as at risk (JSA 2025, p. 68). Early-career workers lose the entry-level jobs in which skills are built. The losses fall on an identifiable, mostly female, middle-wage group.
 
 ## 3. Policy options and evaluation
 
-### Criteria
+Options are judged on **efficiency** (does it fix the credit and training failures, without paying for training that would happen anyway?), **equity** (does it reach the groups in Section 2?), **feasibility** (can DEWR deliver it by 2027?) and **fiscal cost** over four years.
 
-Each option is judged against four criteria:
-
-1. **Efficiency:** does it address the credit and training market failures, with little spending on training that would have happened anyway?
-2. **Equity:** does it reach the women, older workers and early-career workers who bear the cost?
-3. **Feasibility:** can DEWR deliver it through existing systems in time for the 2027 legislation?
-4. **Fiscal cost:** what does it cost the Commonwealth over four years?
-
-### Options
-
-**Option A: AI skills accounts** (modelled on Singapore's SkillsFuture Level-Up)
+**Option A: AI skills accounts** (modelled on SkillsFuture Singapore 2024)
 - *Mechanism:* a $4,000 training credit, with no income support.
 - *Target:* workers aged 30 and over in high-exposure clerical occupations.
-- *Scale and cost:* assuming 25,000 users a year, $108m a year including administration, or **$430m over four years**.
+- *Scale and cost:* 25,000 users a year, **$430m over four years**.
 
 **Option B: train-before-redundancy payment** (modelled on Germany's *Qualifizierungsgeld*; Bundesagentur für Arbeit 2024)
-- *Mechanism:* the Commonwealth reimburses employers 60% of the net wages an employee loses during up to 320 hours of accredited training. In return, the employer pays the course fees, agrees an AI transition plan with its staff, and commits to keep the worker employed for 12 months.
+- *Mechanism:* the Commonwealth reimburses 60% of the net wages lost during up to 320 hours of accredited training. The employer pays course fees, agrees an AI transition plan with staff and retains the worker for 12 months.
 - *Target:* employees whose roles AI is redesigning.
-- *Scale and cost:*
-  - Per worker: net pay of about $1,100 a week (from the $1,300 gross median) × 8 weeks × 60% ≈ $5,300.
-  - For 10,000 workers a year: $58m a year including administration, or **$230m over four years**.
-  - Employers pay about $4,000 per worker in course fees.
+- *Scale and cost:* about $1,100 net a week × 8 weeks × 60% ≈ $5,300 per worker. For 10,000 workers a year, **$230m over four years**, plus about $160m in course fees paid by employers.
 
 **Option C: clerical transition guarantee**
 - *Mechanism:* career guidance, reviving the Skills Checkpoint program that ended in June 2024 (DEWR 2024), plus a $5,000 training voucher. JobSeeker continues to provide income support.
 - *Target:* workers made redundant from high-exposure occupations.
-- *Scale and cost:* for 8,000 workers a year, $50m a year, or **$200m over four years**.
-
-A universal basic income was considered and rejected. With only 4% of workers highly exposed, it would spread its cost over people the problem does not affect.
-
-### Options-by-criteria matrix
+- *Scale and cost:* 8,000 workers a year, **$200m over four years**.
 
 | Criterion | A: Skills accounts | B: Train before redundancy | C: Transition guarantee |
 |---|---|---|---|
-| Efficiency | **Low.** Pays for training that would often happen anyway, and does not replace the earnings lost while studying | **High.** Acts before skills lose value and keeps the existing worker–firm match. The employer's co-payment screens out firms without a real need | **Medium.** Well targeted, but support arrives after skills have lost value |
-| Equity | **Medium.** Open to all, but take-up tends to favour better-educated workers | **Medium.** Reaches only people who still have a job, and small firms are less able to take part | **High.** Reaches displaced, part-time and older workers |
-| Feasibility | **High.** Uses the existing training market | **Medium.** Needs a new payment and legislation, which could be included in the 2027 bill | **High.** Can run through Workforce Australia, building on the Skills Checkpoint precedent |
-| Fiscal cost (4 years) | $430m | $230m, plus about $160m paid by employers | $200m |
+| Efficiency | **Low.** Pays for training that would happen anyway; lost earnings not covered | **High.** Acts before skills lose value; keeps the worker–firm match; employer co-payment screens need | **Medium.** Well targeted, but arrives after skills have lost value |
+| Equity | **Medium.** Take-up favours the better-educated | **Medium.** Only people still employed; hard for small firms | **High.** Reaches displaced, part-time and older workers |
+| Feasibility | **High.** Uses the existing training market | **Medium.** Needs new legislation | **High.** Runs through Workforce Australia |
+| Cost (4 years) | $430m | $230m | $200m |
 
-B is the most efficient option, but it misses anyone who has already lost their job. C covers exactly that gap. A costs the most and does the least to remove the barrier of lost earnings.
+B is most efficient but misses those already displaced; C fills that gap. A costs most and does least.
 
 ## 4. Recommended package and implementation plan
 
+**Adopt Options B and C together, plus $20m for JSA monitoring and evaluation: $450m over 2027–28 to 2030–31.** That is about 0.4% of the PC's estimate of AI's extra GDP over a decade. Fund it from general revenue; a levy on AI investment would tax the productivity channel that creates the gains.
+
+| When | Action | Lead |
+|---|---|---|
+| Late 2026 | Design B and C; consult unions, industry and small business | DEWR, Office of AI |
+| Early 2027 | Legislate B in the AI Standards bill; fund in May Budget | Office of AI, DEWR |
+| 1 Jul 2027 | Launch C (no legislation needed) | DEWR, TAFEs |
+| 1 Jan 2028 | Launch B; Services Australia reimburses employers | DEWR, Services Australia |
+| 2029–31 | JSA evaluation; DEWR decides to scale up, redesign or end | JSA, DEWR |
+
+**Key performance indicators,** measured against a matched comparison group (linked payroll data in ABS PLIDA):
+
+- **Retention (B)** and **re-employment (C)** at 12 months at least 5 percentage points above the comparison group.
+- **Earnings** at 24 months at least 95% of participants' earnings before the program.
+- **Reach:** at least 65% of participants are women and at least 20% are aged 50 or over.
+
+**Decision rules:**
+- *Stop rule:* if B's retention gain is below 5 percentage points in 2029, move its funding to C.
+- *Entry-level trigger:* if the share of entry-level job ads in exposed occupations falls more than 20% below its 2025 level, DEWR reviews extending apprenticeship incentives to clerical traineeships.
+
 ## 5. Risks and mitigations
+
+| Risk | Mitigation |
+|---|---|
+| Firms claim for training they would do anyway | Employers pay course fees; payments are limited to roles named in a transition plan |
+| Small firms cannot use Option B | A simplified route for firms with fewer than 20 staff, as in Germany |
+| AI changes faster than the exposure estimates assume | JSA monitors quarterly; the legislation includes a review clause |
 
 ## References
 
