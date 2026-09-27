@@ -37,4 +37,4 @@ The commit history records how the brief was built: outline, impact analysis, op
 
 ## Author
 
-[Your name] · ECON1626 Economics of Artificial Intelligence · RMIT University · Semester 2, 2026
+Chaorui Wang · ECON1626 Economics of Artificial Intelligence · RMIT University · Semester 2, 2026
